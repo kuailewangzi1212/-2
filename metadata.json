@@ -1,0 +1,8 @@
+{
+  "name": "4S AI After-Sales Pilot",
+  "description": "AI-driven automotive 4S dealership after-sales operation platform featuring smart booking, visual diagnosis, and feedback analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
